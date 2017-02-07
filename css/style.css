@@ -1,6 +1,10 @@
 body {
-  background-color: lightyellow
+  background-color: lightyellow;
+  text-align: center;
+}
 
+.green-background {
+  background-color: green;
 }
 
 h1 {
